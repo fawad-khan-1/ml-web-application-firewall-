@@ -30,7 +30,7 @@ The primary objective of this study is to evaluate the use of machine learning i
 - Ubuntu Linux VM
 - Kali Linux VM
 
-  ## Machine Learning Pipeline
+ ## Machine Learning Pipeline
   1. An enhanced file inclusion dataset is loaded into the model
   2. Duplicates and missing values are removed from the dataset
   3. Dataset is vectorized, to convert string values to a numerical format
@@ -43,17 +43,17 @@ The primary objective of this study is to evaluate the use of machine learning i
   10. The performance of each algorithm is recorded in tabular form, and compared with the performance of ModSecurity which is also tested with the same payload patterns
   11. The final determination about the best performing algorithms for handling each form of attack payloads is made at the end
  
-  ## Attack Detection Focus
+ ## Attack Detection Focus
   The focus of this project is on:
   - Local File Inclusion (LFI)
   - Remote File Inclusion (RFI)
   - Highly complex obfuscated patterns
   - Advanced multi-stage attack patterns
 
-  ## Repository Scope
+ ## Repository Scope
   This repository is focused mainly on the machine learning model built here with six, classification algorithms. This model was built to be a part of a much broader research project. The model code presented here       shows dataset preprocessing,feature extraction, model training and attack classification logic.
 
-  ## Results
+ ## Results
   The results of this study show that for attack patterns which are well known, rule-based systems like ModSecurity show the best performance. But for attack patterns that are highly obfuscated, or relatively unknown such as the advanced multi-stage attack patterns, machine learning shows better performance due to its ability to learn patterns, and then use those learned patterns to generalize to previously unseen ones.
 
  
