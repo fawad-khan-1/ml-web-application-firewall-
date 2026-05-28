@@ -1,1 +1,4 @@
-
+These results show the results of the best performing machine learning algorithms for the three sets of different payload patterns.
+1. BestAlgorithmCRSPercent.png shows the best performing algorithm for the well-known (CRS) payloads
+2. BestAlgorithmHiEvasionPercent.png shows the best performing algorithm for the highly evasive, obfuscated (Hi-Level) payloads
+3. BestAlgorithmLevel3Percent shows the best performing algorithm for the advanced, multi-stage (Level-3) payloads
