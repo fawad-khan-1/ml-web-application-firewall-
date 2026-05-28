@@ -1,1 +1,7 @@
+## Explanation
+These confusion matrices show the results of the machine learning algorithms when attacked with the three sets of payload patterns. CRS refers to well-known signature patterns. Hi-Level refers to highly evasive obfuscated patterns, and Level-3 refers to advanced, multi-stage patterns.
 
+1. MLNNConfusionMatrixCRS.png is the confusion matrix for Neural Network which was found to be one of the best performing algorithms for well-known signature (CRS) payloads
+2. MLSVMConfusionMatrixCRS.png is the confusion matrix for SVM which was also found to be one of the two best performing algorithms for well-known signature (CRS) payloads
+3. MLRFConfusionMatrixHiEvasion.png is the confusion matrix for Random Forest which was found to be the best performing algorithm for highly evasive Obfuscated (Hi-Level) payloads
+4. MLRFConfusionMatrixL3.png is the confusion matrix for Random Forest which was found to be the best performing algorithm for advanced multi-stage (Level-3) payloads
