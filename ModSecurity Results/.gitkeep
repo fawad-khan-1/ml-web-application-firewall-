@@ -1,1 +1,1 @@
-
+ModSecurityEvalPercent.png shows the results of ModSecurity when it is attacked with the three set of payload patterns which are the well-known signature (CRS), highly evasive obfuscated (Hi-Level), and advanced, multi-stage (Level-3) attack patterns.
