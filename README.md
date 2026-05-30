@@ -3,7 +3,7 @@
 Title:
 A Universal Machine-Learning Framework for Detecting and Preventing File Inclusion Attacks in PHP Web Applications
 
-## Short Description
+## Description
 This project investigates the use of machine learning technology in the detection and prevention of file inclusion attacks against web applications built with PHP
 
 ## Project Overview
